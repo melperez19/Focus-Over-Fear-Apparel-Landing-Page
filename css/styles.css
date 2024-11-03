@@ -11038,11 +11038,17 @@ html {
     padding-top: 12rem;
     padding-bottom: 3rem;
   }
+  .page-section {
+    padding: 2rem 0;
+  }
 }
 @media (max-width: 433px) {
   .masthead {
     padding-top: 14rem;
     padding-bottom: 2rem;
+  }
+  .page-section {
+    padding: 2rem 0;
   }
 }
 .footer {
